@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Daniel-Northcutt
 - 👀 I’m interested learning how to code
 - 🌱 I’m currently learning sql and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on improving my skills
 
 <!---
 Daniel-Northcutt/Daniel-Northcutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
