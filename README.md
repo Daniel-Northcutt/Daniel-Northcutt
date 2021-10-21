@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Daniel-Northcutt
-- 👀 I’m currently a data science student
-- 🌱 I’m currently learning sql and python as my languages
-- 💞️ I’m looking to build my github and collaborate
+- 🌱 Hi, I’m Daniel
+- I’m currently a data science student at Codeup.
+
 
 <!---
 Daniel-Northcutt/Daniel-Northcutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
